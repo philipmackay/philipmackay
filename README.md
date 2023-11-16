@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working through GitHub for dummies 
+![20230126_100214](https://github.com/philipmackay/philipmackay/assets/61112668/6d3a5a9a-1e46-4cd7-9a24-4ae6ee077e48)
